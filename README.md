@@ -1,3 +1,49 @@
+# LearningTrack
+
+## Topics
+### Computer Organisation:
+Sources:
+- CSE19-COA (4TH): https://classroom.google.com/u/2/c/NjQ2OTQ2NzYzNjcz
+- Computer architecture and organization: https://www.youtube.com/playlist?list=PL9un8tgZngo9-Y5dmi8Fh4dJEMixX6mz7
+
+### Embeddedd System:
+Sources:
+- Embedded System Design with ARM: https://www.youtube.com/playlist?list=PLbRMhDVUMngcJu5oUhgpgYqtOn7DmSfuU
+- Embedded Rust: https: www.youtube.com/playlist?list=PLWf59aJ8RCttoERQlw8VEM1xweGJKeaEI
+- ARM Keil Studio Cloud: https://www.youtube.com/playlist?list=PLJR_qSjM8ygdS24nDXy26Mx8A0pue1hy4
+- EAGLE 
+
+### OOPJ
+Sources:
+- OOPS: https://www.youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk
+
+### Operating System
+Sources:
+- Operating System: https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O
+- RTOS: https://www.youtube.com/playlist?list=PLEBQazB0HUyQ4hAPU1cJED6t3DU0h34bz
+
+### DBMS
+- Class Room: https://classroom.google.com/u/2/c/NjUzMjI1MjQyNDI2
+- DBMS FCC: https://youtu.be/4cWkVbC2bNE?si=HjHyHiITqVf0aYVa
+- SQL: https://www.youtube.com/playlist?list=PL7yh-TELLS1FVLG6AFoT-3lVcbJiPTWze
+
+### Boards:
+ - Raspberry Pi and Python Tutorials: https://www.youtube.com/playlist?list=PLQVvvaa0QuDesV8WWHLLXW_avmTzHmJLv
+ - ESP32: https://www.youtube.com/playlist?list=PLWNDWPAClRVqNUIuJylljkQfFSeIpuxUi
+ - ARM Microcontrler: www.youtube.com/playlist?list=PL6PplMTH29SEJhWqxhxkDKYPtw0C4mnNY
+ - Arduino Nano BLE Sense: https://docs.arduino.cc/hardware/nano-33-ble-sense/
+
+### IoT
+ - AWS IoT: https://www.youtube.com/playlist?list=PLhr1KZpdzukf3Ohr9eTB3eQlawDT5tHGL
+ - IoT Protocols: https://www.youtube.com/playlist?list=PLgwJf8NK-2e6AVNI0dpIFsrNjsGGf-qLu
+ - LIDAR: https://youtu.be/VhbFbxyOI1k?si=BgJ8qWh-KYo8RkST
+ - Communication Protocol: https://www.youtube.com/playlist?list=PLgwJf8NK-2e6ZEGXc-LrrgDom6jzu7e1L
+ - Computer Networking Protocol: https://youtu.be/qiQR5rTSshw?si=D6DTUbJ9vb4VANfp
+
+### Miscellenous:
+
+
+
 # The Grand Complete Data Science Guide With Videos And Materials
 
 ## 1. Complete Python Playlist For Data Analytics And Data Science
